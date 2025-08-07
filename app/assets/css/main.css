@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #f37a20;
+  --color-secondary: #55565a;
+  --color-muted: #555555;
+}
+
+@layer base {
+  html {
+    font-family: "Roboto", sans-serif;
+  }
+
+  body {
+    font-family: "Roboto", sans-serif;
+    background-color: #ffffff;
+    background-image: url("/img/paper-1.jpg");
+  }
+}
