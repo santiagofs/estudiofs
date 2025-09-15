@@ -8,11 +8,11 @@
 
 @layer base {
   html {
-    font-family: "Roboto", sans-serif;
+    font-family: "Inter", sans-serif;
   }
 
   body {
-    font-family: "Roboto", sans-serif;
+    font-family: "Inter", sans-serif;
     background-color: #ffffff;
     background-image: url("/img/paper-1.jpg");
   }
